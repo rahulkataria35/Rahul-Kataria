@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rahul_Kataria
 - 👀 I’m interested to solve technical problems.
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🌱 I’m currently learning Machine Learning and Data Science.
