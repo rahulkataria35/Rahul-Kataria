@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rahulkataria35
+- 👀 I’m interested to solve technical problems.
+- 🌱 I’m currently learning Machine Learning and Data Science
